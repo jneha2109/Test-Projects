@@ -681,6 +681,11 @@ namespace TechgigPractice
                 age = 0;
                 Console.WriteLine("Age is not valid, setting age to 0.");
             }
+            else if (initialAge > 100)
+            {
+                age = 0;
+                Console.WriteLine("Age is not valid, setting age to 0.");
+            }
         }
         public void amIOld()
         {
