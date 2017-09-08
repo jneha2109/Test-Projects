@@ -661,6 +661,10 @@ namespace TechgigPractice
 
             #endregion
 
+            #region Problem 27
+
+            #endregion
+
             Console.ReadLine();
         }
 
